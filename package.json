@@ -1,0 +1,24 @@
+{
+  "name": "tournamentFinder",
+  "version": "1.0.0",
+  "description": "Yu-Gi-Oh Tournament Event Finder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon206/cardMasters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon206/cardMasters/issues"
+  },
+  "homepage": "https://github.com/brandon206/cardMasters#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
